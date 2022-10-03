@@ -1,0 +1,26 @@
+{
+  "name": "basic-node-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zacharytruong/basic-node-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zacharytruong/basic-node-website/issues"
+  },
+  "homepage": "https://github.com/zacharytruong/basic-node-website#readme",
+  "devDependencies": {
+    "eslint": "^8.24.0",
+    "eslint-plugin-react": "^7.31.8",
+    "nodemon": "^2.0.20"
+  }
+}
